@@ -2,7 +2,7 @@
 *Dependencia:*
 _Python 3.9.7_
 
-_ Funcinalidades integradas_
+_Funcinalidades integradas_
 - Suma
 - Resta
 - Multiplicación
